@@ -1,0 +1,7 @@
+# Dil istatistiklerinden Jupyter Notebook dosyalarını çıkar
+*.ipynb linguist-vendored
+
+# CSS, HTML ve C++ dosyalarını çıkar
+*.css linguist-vendored
+*.html linguist-vendored
+*.cpp linguist-vendored
